@@ -66,10 +66,10 @@ public class test {
 	        double imgHeight = height * 0.9;
 	        
 	        
-	        myFrame.setPreferredSize(new Dimension((int)width, (int)height));
-	        myFrame.setMinimumSize(new Dimension((int)width, (int)height));
-	        myFrame.setResizable(false);
-	        myFrame.setExtendedState(JFrame.MAXIMIZED_BOTH);
+	        //myFrame.setPreferredSize(new Dimension((int)width, (int)height));
+	        //myFrame.setMinimumSize(new Dimension((int)width, (int)height));
+	       // myFrame.setResizable(false);
+	        //myFrame.setExtendedState(JFrame.MAXIMIZED_BOTH);
 	        
 	        
 	        JPanel panel = new JPanel();

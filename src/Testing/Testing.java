@@ -1,4 +1,4 @@
-package Testing;
+/*package Testing;
 
 public class Testing {
 	
@@ -11,3 +11,4 @@ public class Testing {
 	//JKHJKKK
 
 }
+*/
